@@ -14,8 +14,6 @@
             <br />
             <asp:DropDownList ID="ddl_Place" runat="server"></asp:DropDownList>
         </div>
-
-        
     </form>
 </body>
 </html>
